@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Demo1Application {
 
 	public static void main(String[] args) {
-		int a;
+		int asddc2;
 		System.out.println("wssse");
 		SpringApplication.run(Demo1Application.class, args);
 	}
