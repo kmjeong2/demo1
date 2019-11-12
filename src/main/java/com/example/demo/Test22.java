@@ -1,5 +1,6 @@
 package com.example.demo;
 
 public class Test22 {
-int gg
+int gg;
+String dd;
 }
